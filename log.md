@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: June 24, 2017
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: I have completed the random quote project in the Free Code Camp Frontend curriculum
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** The design is far from perfect. But I learn to move forward, I forced myself to towards the finish line. The most important certificate will be the front-end certificate because I am so good in design and I always struggle and to often stop because I feel my design too lousy but what instead of being paralyzed by that I want to use it as an opportunity to improve myself. So I will extensively read about design for the next 100 days.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Random Quote Project](https://codepen.io/arushi011/pen/EXmMvx)
