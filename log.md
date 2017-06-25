@@ -7,4 +7,4 @@
 
 **Thoughts:** The design is far from perfect. But I learn to move forward, I forced myself to towards the finish line. The most important certificate will be the front-end certificate because I am so good in design and I always struggle and to often stop because I feel my design too lousy but what instead of being paralyzed by that I want to use it as an opportunity to improve myself. So I will extensively read about design for the next 100 days.
 
-**Link to work:** [Random Quote Project](https://codepen.io/arushi011/pen/EXmMvx)
+**Link to work:** [Random Quote Project](https://codepen.io/efleurine/pen/rwzjeq)
